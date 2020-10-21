@@ -8,7 +8,7 @@
 https://sc-employee-directory.herokuapp.com/
 
  Click the below GIF to go to Youtube to view the full sized video of functionality.
- [![Gif of Fitness Tracker Functionality](./public/Assets/FitnessTracker.gif)](https://youtu.be/9mr98Y2tY8E/link "Link to full sized video")
+ [![Gif of Employee Directory Functionality](./public/EmployeeDirectory.gif)](https://youtu.be/Wb3HJ6TSp_4/link "Link to full sized video")
 
 
 This project was created using:  Node React 
